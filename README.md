@@ -3,5 +3,5 @@ logs book pages <br>
 70 lines  <br>
 
 DEPENDENCIES:
-- C
+- C COMPILER
 - C STD LIB
